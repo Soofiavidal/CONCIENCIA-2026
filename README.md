@@ -57,7 +57,7 @@ npm run build
 
 Sofia Vidal Vázquez — Frontend Lead & Data Governance
 
-LinkedIn · sofiavidal11@outlook.es
+LinkedIn · https://www.linkedin.com/in/sofiavidal-/
 
 
 📅 Context
