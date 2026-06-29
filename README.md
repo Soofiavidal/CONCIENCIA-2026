@@ -24,8 +24,14 @@ FloodMirror AI predicts flood risk in urban zones using spatial variables and te
 
 🛠️ Tech Stack
 
-LayerTechnologyFrontendReact, TypeScript, ViteMappingMapbox GL JSStylingTailwind CSSAI ModelMirror Algorithm (custom)DevOpsGitHub Actions, VercelData PrivacyLFPDPPP-compliant architecture
-
+| Layer | Technology |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| Mapping | Mapbox GL JS |
+| Styling | Tailwind CSS |
+| AI Model | Mirror Algorithm (custom) |
+| DevOps | GitHub Actions, Vercel |
+| Data Privacy | LFPDPPP-compliant architecture |
 
 🏗️ Architecture
 
